@@ -1,18 +1,11 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 147,
+    "name": "Love sick",
+    "author": "rumun",
+    "creators": ["rumun"],
+    "verifier": "Zep!!to",
+    "verification": "https://medal.tv/games/requested/clips/kFbfeCLkB_jvFbEHa?invite=cr-MSxDWkYsMzI3MTIyNDA5",
     "percentToQualify": "100",
-    "password": "46290",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "password": "Free to Copy",
+    "records": []
 }
