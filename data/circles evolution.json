@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/k2HdKGFgg6E?si=5X0xa-mSIDkohEc4",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/0cb2vEHEPXw",
+            "percent": 100,
+            "hz": 240
+        }
+]
 }
