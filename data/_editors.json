@@ -5,23 +5,23 @@
         "link": "https://www.youtube.com/@TheDethronerGD/videos"
     },
     {
-        "role": "TROG",
-        "name": "List Admin",
+        "role": "Admin",
+        "name": "TROG",
         "link": "https://www.youtube.com/@TheDethronerGD/videos"
     },
     {
-        "role": "TROG again lul",
-        "name": "List Helper",
+        "role": "Helper",
+        "name": "TROG again lul",
         "link": "https://www.youtube.com/@TheDethronerGD/videos"
     },
     {
-        "role": "u know who: TROG",
-        "name": "Trial List Helper",
+        "role": "Trial",
+        "name": "u know who: TROG",
         "link": "https://www.youtube.com/@TheDethronerGD/videos"
     },
     {
-        "role": "Guess.....TROG",
-        "name": "List Coder",
+        "role": "Dev",
+        "name": "Guess.....TROG",
         "link": "https://www.youtube.com/@TheDethronerGD/videos"
     }
 ]
