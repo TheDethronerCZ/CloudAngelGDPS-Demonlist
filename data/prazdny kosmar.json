@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kGNbl1xYji8nFwAWk?invite=cr-MSw2SnosMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Fuck you",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/XeSxEdzIRDc",
+            "percent": 100,
+            "hz": 240
+        }]
 }
