@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kEldakHSlKBmUL2z8?invite=cr-MSxVN0EsMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Is in jason's fridge",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/QaU7fad3Ae8",
+            "percent": 100,
+            "hz": 240
+        }]
 }
