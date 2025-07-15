@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kGRZ18dq6G7HLslJi?invite=cr-MSxOc0osMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Zepiito please stop",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/yjBLZKE4urQ",
+            "percent": 100,
+            "hz": 240
+        }]
 }
