@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kGNskGyOAvmHTauf5?invite=cr-MSxSa0osMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Hell Naw",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/Xb5duC_vMCo",
+            "percent": 100,
+            "hz": 240
+        }]
 }
