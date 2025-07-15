@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kGS0n9ueM2A0V4Ga_?invite=cr-MSxlaUosMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "Only in Ohio",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/zZfzUioRiRw",
+            "percent": 100,
+            "hz": 240
+        }]
 }
