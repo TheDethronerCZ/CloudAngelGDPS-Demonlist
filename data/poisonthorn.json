@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kGSy22ofX3YO5TXu-?invite=cr-MSxVTGIsMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "2.21 When???",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/OPU52XjpCok",
+            "percent": 100,
+            "hz": 240
+        }]
 }
