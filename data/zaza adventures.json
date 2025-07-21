@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/requested/clips/kJgHOQgHsJyD8WWOt?invite=cr-MSxNaDEsMzI3MTIyNDA5",
     "percentToQualify": 100,
     "password": "ZAZA WEED",
-    "records": []
+    "records": [{
+            "user": "TROG",
+            "link": "https://www.youtube.com/shorts/1soFXMAtkTM",
+            "percent": 100,
+            "hz": 240
+        }]
 }
