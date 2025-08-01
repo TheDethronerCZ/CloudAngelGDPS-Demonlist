@@ -12,5 +12,10 @@
             "link": "https://www.youtube.com/shorts/zx1jKQBZF6M",
             "percent": 100,
             "hz": 240
-        }]
+        }, {
+            "user": "Ckat",
+            "link": "https://youtu.be/jI1DaDdTmxo",
+            "percent": 100,
+            "hz": 240
+    } ]
 }
