@@ -7,5 +7,10 @@
     "verification": "https://medal.tv/games/geometry-dash/clips/kCqlCwQiBnLTWo_6i?invite=cr-MSxjVzUsNDE3MDAyMTM4",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [{
+            "user": "Ckat",
+            "link": "https://youtu.be/EQLjQzAA_bo" ,
+            "percent": 100,
+            "hz": 240
+    }]
 }
